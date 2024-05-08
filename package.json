@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "logo-maker-svg",
+  "description": "bootcamp challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaquelineesteves/logo-maker-svg.git"
+  },
+  "author": "Jaqueline Esteves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaquelineesteves/logo-maker-svg/issues"
+  },
+  "homepage": "https://github.com/jaquelineesteves/logo-maker-svg#readme"
+}
