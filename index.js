@@ -67,9 +67,9 @@ function promptUser() {
     const createSVG = post.render();
           fs.writeFile('logo.svg',createSVG, (error) =>{
             if(error){ 
-            return console.error('error');
-          } console.log('logo.svg successfully created');
-        });
+            return'';
+          }
+        });console.log('logo.svg successfully created');
         }
       );
   }
