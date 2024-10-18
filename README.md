@@ -2,7 +2,7 @@
   ![MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
   
   ## Description 
-   It is an node.js aplication that request informations to create a simple SVG logo, that help me learn more about npm and jest.
+   It is an aplication that request informations by using NPM Inquirer to create a simple SVG logo, and used Test JEST to test application
 
   ## Table of Contents 
   * [Installation](#installation)
